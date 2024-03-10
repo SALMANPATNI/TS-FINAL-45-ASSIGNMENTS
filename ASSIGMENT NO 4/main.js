@@ -1,0 +1,3 @@
+"use strict";
+//Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author. Your output should look something like the following, including the quotation marks:“If there’s any message to my work, it is ultimately that it’s OK to be different, that it’s good to be different, that we should question ourselves before we pass judgment on someone who looks different, behaves different, talks different, is a different color.” – Johnny Depp//
+console.log("JOHNNY DEPP,\“If there’s any message to my work, it is ultimately that it’s OK to be different, that it’s good to be different, that we should question ourselves before we pass judgment on someone who looks different, behaves different, talks different, is a different color.\"");
